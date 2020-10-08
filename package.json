@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "server": "json-server -p 3001 -d 1000 users.json"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "next": "9.5.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "swr": "^0.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.5",
+    "@types/react": "^16.9.51",
+    "typescript": "^4.0.3"
+  }
+}
