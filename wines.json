@@ -1,0 +1,25 @@
+{
+    "wines": [
+        {
+            "id": 1,
+            "name": "Duedipi Pinot Grigio delle Venezie DOC",
+            "description": "Fresco, frutado e agradável Pinot Grigio elaborado a partir de vinhas fincadas no Veneto, DuediPi nos apresenta um vinho sutil e fácil de beber. Notas de maçãs verdes se mesclam a frutas cítricas e flores brancas neste ótimo branco do nordeste italiano. Com ótima acidez e sutil dulçor residual é ideal para acompanhar pratos leves, como saladas, pescados e queijos de cabra.",
+            "price": 94.00,
+            "img_url": "https://worldwine.vteximg.com.br/arquivos/ids/158944-1000-1500/025091.png?v=637187580594700000"
+        },
+        {
+            "id": 2,
+            "name": "Sophenia Altosur Reserve Cabernet Sauvignon",
+            "description": "Elaborado a partir de vinhas plantadas em Tupungato, há 1200 metros de altitude, este Cabernet Sauvignon se mostra maduro e elegante. Com taninos finos e doces, e a boa acidez adquirida graças a altitude e a mineralidade do solo da região, é um tinto equilibrado. No nariz destacam-se frutas pretas maduras, como amoras e cassis, notas de eucalipto e toques defumados.",
+            "price": 106.00,
+            "img_url": "https://worldwine.vteximg.com.br/arquivos/ids/158912-1000-1500/Vinho_Tinto_Altosur_Reserve_Cabernet_Sauvignon_2016_Finca_Sophenia_Mendoza_Cabernet_Sauvignon_022437--2-.png?v=637178334301800000"
+        },
+        {
+            "id": 3,
+            "name": "Escudo Rojo Origine Cabernet Sauvignon",
+            "description": "Ícone com a assinatura de Baron Philippe de Rothschild no Chile, Escudo Rojo Origine Cabernet Sauvignon é a quintessence do Valle del Maipo. Complexo e rico, revela notas de cassis, além de toques mentolados e de tabaco. Um grande Cabernet Sauvignon que encantou Descorchados e James Suckling por seu caráter e elegância.",
+            "price": 94.00,
+            "img_url": "https://worldwine.vteximg.com.br/arquivos/ids/159481-1000-1500/Vinho_Tinto_Escudo_Rojo_Origine_Cabernet_Sauvignon_025442.png?v=637291196249030000"
+        }
+    ]
+}
